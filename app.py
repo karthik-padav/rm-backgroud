@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def start():
-    return "The MBSA Server is Running"
+    return "Server is Running"
 
 @app.route('/remove-background', methods=['POST'])
 def remove_background():
