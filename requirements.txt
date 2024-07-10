@@ -1,5 +1,5 @@
 Flask==2.3.2
-rembg==2.0.30
+rembg==2.0.57
 Pillow==9.4.0
 numpy==1.24.4
 scipy==1.11.1
