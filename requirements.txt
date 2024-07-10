@@ -1,2 +1,8 @@
-Flask==2.0.1
+Flask==2.3.2
+rembg==2.0.30
+Pillow==9.4.0
+numpy==1.24.4
+scipy==1.11.1
+opencv-python-headless==4.7.0.72
+onnxruntime==1.15.1
 Werkzeug==2.2.2
